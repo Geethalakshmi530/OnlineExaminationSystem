@@ -144,3 +144,12 @@ This project is intended as an academic/demo web application. Before production 
 ## License
 
 No license file was included in the supplied project archive. Add a `LICENSE` file if you intend to publish the project with explicit reuse terms.
+
+
+## 🌐 Live Demo
+
+**Live Website:** [Online Examination System](https://starts-valves-morning-forwarding.trycloudflare.com/OnlineExaminationSystem/login.jsp)
+
+**Project Repository:** Browse the source code and project documentation in this repository.
+
+> **Note:** This demo is hosted using Cloudflare Quick Tunnel. The website is available only while the host computer, Apache Tomcat server, and Cloudflare Tunnel are running. The URL may change when a new temporary tunnel is created.
